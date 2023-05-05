@@ -1,7 +1,7 @@
 ![header](akariv.png)
 
 - Open Data consultant and activist
-- Over 25 years of experience in **developing, designing and managing software projects**, from open-source data-wrangling libraries to enterprise-scale, mission-critical systems developed by over 20 engineers. 
+- Over 30 years of experience in **developing, designing and managing software projects**, from open-source data-wrangling libraries to enterprise-scale, mission-critical systems developed by over 20 engineers. 
 - Founder of the [Public Knowledge Workshop (‘Hasadna’)](https://www.hasadna.org.il/en/), an Israeli NGO working to make government data more accessible, 
 - Partner at [While True Industries](https://whiletrue.industries)
 - Extensive experience working with government agencies, building better tools for publishing data. 
